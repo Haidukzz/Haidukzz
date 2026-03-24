@@ -52,11 +52,11 @@ public class Gustavo {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,cs,sql&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,cs&theme=light" />
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=spring,docker,git,github,linux,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=spring,docker,git,github&theme=light" />
 
 **Databases**
 
@@ -68,14 +68,14 @@ public class Gustavo {
 
 <div align="center">
 
-| Technology | Proficiency |
-|------------|-------------|
-| ☕ Java | ██████████ Advanced |
-| 🔵 C# | ████████░░ Proficient |
-| 🌱 Spring Boot | ██████████ Advanced |
-| 🔐 Keycloak | ████████░░ Proficient |
-| 🗄️ SQL | █████████░ Advanced |
-| 🐳 Docker | ███████░░░ Intermediate |
+| Technology |
+|------------|
+| ☕ Java | 
+| 🔵 C# |
+| 🌱 Spring Boot |
+| 🔐 Keycloak | 
+| 🗄️ SQL | 
+| 🐳 Docker |
 
 </div>
 
@@ -97,17 +97,6 @@ public class Gustavo {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Haidukzz&theme=flat&no-frame=true&column=7&margin-w=10&title_color=0A66C2" />
-
-</div>
-
----
 
 <div align="center">
 
